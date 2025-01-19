@@ -23,6 +23,7 @@ let
               [
                 (subattr "path" typeString)
               ] [ ])
+            (subelem "name" [ ] typeString)
           ])
         (subelem "target" [ ]
           [
